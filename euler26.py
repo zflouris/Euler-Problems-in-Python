@@ -1,3 +1,5 @@
+#This is a not very efficient solution to this problem
+
 from sys import argv
 import time
 
